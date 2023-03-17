@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=javayoyo)](https://solved.ac/javayoyo)<br/>
