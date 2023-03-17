@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 
 
+rc="https://img.shields.io/badge/#ECD53F?style=for-the-badge&logo=JAVA&logoColor=black">
+
+	/appveyor/tests/:user/:repo
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=javayoyo)](https://solved.ac/javayoyo)<br/>
