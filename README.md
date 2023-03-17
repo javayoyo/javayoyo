@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-rc="https://img.shields.io/badge/#ECD53F?style=for-the-badge&logo=JAVA&logoColor=black">
+rc="https://img.shields.io/badge/JAVA-#ECD53F?style=for-the-badge&logo=.ENV&logoColor=black">
 
 	/appveyor/tests/:user/:repo
 
