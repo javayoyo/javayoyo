@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=javayoyo)](https://solved.ac/javayoyo)<br/>
+
+https://javayoyo.github.io/
