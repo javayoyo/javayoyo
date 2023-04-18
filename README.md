@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome!&animation=twinkling&fontSize=20&fontAlignY=100&fontAlign=100&height=200)
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!)
 
 ### Hi there 👋 
 
