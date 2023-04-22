@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome!)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=development%20world%20:)&fontSize=60" />	
+</div>
+
 
 ### Hi there 👋
 Welcome my development world~
