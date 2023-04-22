@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome!)
 
-### Hi there 👋 
+### Hi there 👋
+Welcome my development world~
 
 <!--
 **javayoyo/javayoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
