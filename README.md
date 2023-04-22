@@ -3,7 +3,7 @@
 </div>
 
 
-### Hi there 👋
+### 👋 Hi there 😄
 Welcome my development world~
 
 <!--
@@ -21,19 +21,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>📚 Tech Stack 📚</h3>
+<h3>🌱 Tech Stack 🌱</h3>
+ <div align=center>
 <p>✨ Platforms & Languages ✨</p>
-
+</div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-654FF0?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-34E27A?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   </div>
+   <div align=center>
   <p>🛠 Tools 🛠</p>
+	</div>
   <div align=center>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -43,14 +46,14 @@ Here are some ideas to get you started:
   
   <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>📚 Portfolio 📚 </p>
 </div>
 <div align=center>
 	<a href="https://javayoyo.github.io/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://wwwtistorycomjavayo-0218.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-CC6699?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="javayo0218@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
