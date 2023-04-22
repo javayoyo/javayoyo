@@ -38,6 +38,31 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   </div>
   
+  <br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://javayoyo.github.io/">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<a href="https://wwwtistorycomjavayo-0218.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="javayo0218@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://magnificent-soapwort-1dd.notion.site/_20230421-43d9e116ac884640a45774c31cd8f7bd">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
+</div>
+  
+  
+  
+  
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javayoyo&layout=compact)](https://github.com/javayoyo/github-readme-stats)
 
