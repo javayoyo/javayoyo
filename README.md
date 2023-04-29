@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-34E27A?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   </div>
+  <br>
    <div align=center>
   <p>🛠 Tools 🛠</p>
 	</div>
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div>
+<br>
   
   
   
