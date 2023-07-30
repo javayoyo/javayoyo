@@ -6,6 +6,11 @@
 ### 👋 Hi there 😄
 Welcome my development world~
 
+<!-- 깃 정보 -->
+<div style="display: flex; align-items: flex-start;">
+<h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />Javayoyo's GitHub information</h3>
+</div>
+
 <!--
 **javayoyo/javayoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +45,7 @@ Here are some ideas to get you started:
 	</div>
   <div align=center>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ-2C2255?style=logoColor=white" />	  
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
